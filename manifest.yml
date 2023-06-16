@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: fb-1125-b10809008
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services: []

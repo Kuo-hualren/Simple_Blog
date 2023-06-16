@@ -1,0 +1,42 @@
+body {
+    height: 800px;
+    width: 100%;
+    font-family: Helvetica;
+    /* background-color: rgb(224, 28, 28); */
+}
+.form-label{
+    font-size: 24px;
+}
+#sd{
+    width: 250px;
+    height: 45px;
+    font-size: 18px;
+}
+.container{
+    width: 80%;
+}
+.axc{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+}
+.azx{
+    margin-left: auto;
+    float: right;
+}
+.fgh{
+    outline: none;
+    /* margin-top: 20px; */
+    height: 40px;
+    width: 900px;
+    border-radius: 5px;
+    border-color: green;
+}
+.hjhj{
+    margin-top: 30px;
+}
+#gg{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
